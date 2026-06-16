@@ -126,4 +126,4 @@ See repository owner for license terms.
 
 ## Story
 
-See [LINKEDIN_POST.md](https://www.linkedin.com/posts/puli-bharat-58040a310_reinforcementlearning-deeplearning-machinelearning-activity-7461398077728374784-sHyl?utm_source=share&utm_medium=member[...]
+See [LINKEDIN_POST](https://www.linkedin.com/posts/puli-bharat-58040a310_reinforcementlearning-deeplearning-machinelearning-activity-7461398077728374784-sHyl?utm_source=share&utm_medium=member[...]
