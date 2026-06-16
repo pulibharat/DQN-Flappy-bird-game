@@ -5,16 +5,13 @@ Deep Q-Network (DQN) agent that learns to play Flappy Bird using PyTorch and Gym
 **Best training result:** 131 pipes in a single episode (~59,000 episodes).
 
 ## Demo Video
-
+Click the image above to watch the demo video on YouTube, or play it here:
 <div align="center">
   <a href="https://youtu.be/xFV3akEf4Rc?si=LiwUuyVQ4vNsVZ2R" target="_blank">
     <img src="https://img.youtube.com/vi/xFV3akEf4Rc/maxresdefault.jpg" alt="DQN Flappy Bird Demo" width="600">
   </a>
 </div>
 
-Click the image above to watch the demo video on YouTube, or play it here:
-
-[![Watch the video](https://img.youtube.com/vi/xFV3akEf4Rc/0.jpg)](https://youtu.be/xFV3akEf4Rc?si=LiwUuyVQ4vNsVZ2R)
 
 ## Requirements
 
