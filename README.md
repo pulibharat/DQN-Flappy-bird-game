@@ -4,6 +4,18 @@ Deep Q-Network (DQN) agent that learns to play Flappy Bird using PyTorch and Gym
 
 **Best training result:** 131 pipes in a single episode (~59,000 episodes).
 
+## Demo Video
+
+<div align="center">
+  <a href="https://youtu.be/xFV3akEf4Rc?si=LiwUuyVQ4vNsVZ2R" target="_blank">
+    <img src="https://img.youtube.com/vi/xFV3akEf4Rc/maxresdefault.jpg" alt="DQN Flappy Bird Demo" width="600">
+  </a>
+</div>
+
+Click the image above to watch the demo video on YouTube, or play it here:
+
+[![Watch the video](https://img.youtube.com/vi/xFV3akEf4Rc/0.jpg)](https://youtu.be/xFV3akEf4Rc?si=LiwUuyVQ4vNsVZ2R)
+
 ## Requirements
 
 - Python 3.10+
@@ -117,4 +129,4 @@ See repository owner for license terms.
 
 ## Story
 
-See [LINKEDIN_POST.md](https://www.linkedin.com/posts/puli-bharat-58040a310_reinforcementlearning-deeplearning-machinelearning-activity-7461398077728374784-sHyl?utm_source=share&utm_medium=member_android&rcm=ACoAAE8VNrABOjjRoua2Ql1Pxljvi0CuBGElZHQ) for the full learning journey, bugs fixed, and lessons learned.
+See [LINKEDIN_POST.md](https://www.linkedin.com/posts/puli-bharat-58040a310_reinforcementlearning-deeplearning-machinelearning-activity-7461398077728374784-sHyl?utm_source=share&utm_medium=member[...]
